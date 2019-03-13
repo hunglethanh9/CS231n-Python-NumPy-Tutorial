@@ -1,6 +1,6 @@
 # Jupyter Notebook version of [CS231n Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
-Preparatory material for the probabilistic graphical models and the deep learning classes at Stanford.
+Preparatory material for the Convolutional Neural Networks for Visual Recognition classes at Stanford.
 
 ## Material
 
