@@ -1,4 +1,4 @@
-# Python / NumPy Tutorial for [Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+# Jupyter Notebook version of [CS231n Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
 Preparatory material for the probabilistic graphical models and the deep learning classes at Stanford.
 
